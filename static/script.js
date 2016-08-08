@@ -12,7 +12,8 @@ var sentences = [
   '好好爱自己',
   '\u0008\u5c0f\u5bd2\u554a',
   '这一天要快乐',
-  '每天都要快乐'
+  '每天都要快乐',
+  '七夕快乐'
 ];
 
 function showInput() {
